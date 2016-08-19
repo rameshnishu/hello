@@ -4,6 +4,8 @@
 
 cat data.txt* > newdata.txt
 
+#slit one into two files using following cammond
+
 split --byte 150k file.txt newfile
 
  
