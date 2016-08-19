@@ -1,0 +1,23 @@
+About GIT HUB: #Clone the url
+#Clone the url
+
+wget git clone https://github.com/rameshnishu/hello.git
+
+#changing remote url from HTTPS  to SSH
+
+git remote set-url origin git@github.com:rameshnishu/hello.git
+
+#changing remote url from SSH to HTTPS
+
+git remote set-url origin https://github.com/rameshnishu/hello.git
+
+Following commands to use update the git repository
+
+git pull , git push , git init , git add, git status, git commit,
+ 
+git commit  –m “ meesage” 
+
+# to check current remote connection
+
+git remote -v
+
