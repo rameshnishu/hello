@@ -21,3 +21,11 @@ git commit  –m “ meesage”
 
 git remote -v
 
+# adding new branches to git name is devlop 
+
+git branch devlop
+
+# enter into devlop branch 
+
+git checkout devlop
+
