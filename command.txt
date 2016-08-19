@@ -1,6 +1,6 @@
 #combined two files information into one file
 
-#examples two files data.txt.a,data.txt.b using following cammond
+#examples of two files data.txt.a,data.txt.b using following cammond
 
 cat data.txt* > newdata.txt
 
