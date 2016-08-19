@@ -1,0 +1,9 @@
+#combined two files information into one file
+
+#examples two files data.txt.a,data.txt.b using following cammond
+
+cat data.txt* > newdata.txt
+
+split --byte 150k file.txt newfile
+
+ 
